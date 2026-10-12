@@ -17,7 +17,7 @@
 
 ## Данные
 
-Выгрузка сделана 9 октября 2026 года. Файлы `raw_api.parquet`, `links.parquet` и `posts.parquet` можно скачать по ссылке [ссылка на архив].
+Выгрузка сделана 9 октября 2026 года. Файлы `raw_api.parquet`, `links.parquet` и `posts.parquet` можно скачать по ссылке [архив на Google Drive](https://drive.google.com/file/d/1zj8qjNIzMdLZiJ1-SZVkpnw7vgjTIpl7/view?usp=drive_link).
 
 Чтобы перезапустить ноутбук, распакуйте архив в папку `data/`. Новая выгрузка скриптами `01_fetch.py` и `01b_fetch_links.py` даст немного другие числа, так как у старых постов продолжают расти просмотры и реакции.
 
